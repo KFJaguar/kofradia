@@ -14,14 +14,14 @@ class page_bomberom
 	/**
 	 * Avgift for å kaste ut en spiller av bomberommet
 	 */
-	const KICK_PLAYER_COST = 50000000;
+	const KICK_PLAYER_COST = 100000000;
 	
 	/**
 	 * Avgift for å kaste ut en spiller av bomberommet til familie
 	 */
-	const KICK_PLAYER_COST_FAMILIE = 2000000;
+	const KICK_PLAYER_COST_FAMILIE = 5000000;
 	
-	const KICK_HOUR_START = 21;
+	const KICK_HOUR_START = 20;
 	const KICK_HOUR_END = 22;
 	
 	protected $kick_hour_ok;
