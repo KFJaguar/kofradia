@@ -6,7 +6,7 @@ class etterlyst
 	const FREEZE_TIME = 604800; // 1 uke
 	
 	/** Hvor lang tid man må vente mellom hver nye hitlist man oppretter */
-	const WAIT_TIME = 3600;
+	const WAIT_TIME = 900;
 	
 	/** Minste beløpet man kan sette en dusør på */
 	const MIN_AMOUNT_SET = 500000;
